@@ -53,7 +53,7 @@ This repository contains a Java program that performs various database operation
 ## Notes
 
 - Ensure your MySQL database is running and accessible.
-- Make sure the `Emp` table exists in the `CompanyDb` database with the appropriate schema.
+- Make sure the table exists in the database with the appropriate schema.
 - Include the MySQL JDBC driver in your classpath if it's not already available.
 
 ## License
