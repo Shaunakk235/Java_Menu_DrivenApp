@@ -1,4 +1,5 @@
-package JDBC;
+//TABLE NAME IS -- "Emp" --MAKE SURE TO REPLACE IT WITH YOUR TABLE NAME...!
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,10 +8,10 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class MenuAssignment {
+public class Menu_Driven_Application {
 
-    private static String DBurl = "jdbc:mysql://localhost:3306/CompanyDb";
-    private static String username = "root";
+    private static String DBurl = "jdbc:mysql://localhost:3306/DATABASE NAME";// Enter Your Database Name Here
+    private static String username = "root"; //Change Password And Username Accordingly
     private static String password = "root";
     private static Connection con;
 
