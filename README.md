@@ -27,7 +27,7 @@ This repository contains a Java program that performs various database operation
 
 1. **Clone the Repository**: Download the project to your local machine.
     ```bash
-    git clone https://github.com/yourusername/JDBCEmployeeManagement.git
+    git clone https://github.com/yourusername/Java_Menu_DrivenApp.git
     cd JDBCEmployeeManagement
     ```
 
